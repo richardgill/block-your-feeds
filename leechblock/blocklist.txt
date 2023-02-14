@@ -8,7 +8,6 @@
 +*.twitter.com/*/status/*
 +*.youtube.com/watch?*
 +ft.com/content/*
-+news.ycombinator.com/best
 +news.ycombinator.com/item?*
 ft.com
 instagram.com
