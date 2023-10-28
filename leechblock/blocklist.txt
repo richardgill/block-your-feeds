@@ -2,20 +2,21 @@
 *.reddit.com
 *.twitter.com
 *.youtube.com
-+*.facebook.com/*/posts/*
-+*.facebook.com/*/videos/*
-+*.reddit.com/r/*/comments/*
-+*.twitter.com/*/status/*
-+*.youtube.com/watch?*
-+ft.com/content/*
-+news.ycombinator.com/item?*
 ft.com
 instagram.com
 news.google.com
 news.ycombinator.com
 play.google.com/store/apps/details*
 theguardian.com
-
++out.reddit.com
++*.facebook.com/*/posts/*
++*.facebook.com/*/videos/*
++*.reddit.com/r/*/comments/*
++*.twitter.com/*/status/*
++*.x.com/*/status/*
++*.youtube.com/watch?*
++ft.com/content/*
++news.ycombinator.com/item?*
 
 
 
